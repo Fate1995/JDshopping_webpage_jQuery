@@ -1,0 +1,2 @@
+# JDshopping_webpage_jQuery
+使用jQuery实现京东购物网页的动画效果
